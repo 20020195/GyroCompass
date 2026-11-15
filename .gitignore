@@ -52,3 +52,6 @@ crashlytics-buildid.txt
 # OS
 .DS_Store
 Thumbs.db
+
+# Local MCP config
+.mcp.json
